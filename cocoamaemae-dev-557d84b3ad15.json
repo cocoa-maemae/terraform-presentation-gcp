@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cocoamaemae-dev",
+  "private_key_id": "557d84b3ad15fcec8394e7e6ac675f2a8615dbfc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeaYlhJiLtg0lk\nXzGzE6DLxgfpu2uqGNQ6CszNfimCM/gmupH1akq6BjN01F9/dr42Wp63h1ifwol5\nQB4hr4O/oiJFYPMWCXiBx2OcybYxHfssKR4Pp+xqdDFmMLHdSgGxhuE6/4TgrWVM\nyURiqvC4TFfOQvCUcWHuvUXtPTWfJUR1W2bhOh7I3mWXj7VY1Ff52XMBmrW2G+pQ\nSBQU6SOtEKyZGtcbcgNakVxpBD7Rj+FjYEcb9s63/L1kCHbUt7z9w02h+vBL/Nzm\nnfzR4EyeUbk0TpyOe+5Su6Btv0VhmXFzcn6wMS9835bd4IvVn27oRCyhDlAi1hP0\nPpLeVoZ1AgMBAAECggEANsB8Yq8XOGd9qOr8FwyMMZIvLvp/8mklhTAxbD8UYrPK\nq7wlcaD81gIJq/IxVbF5efjlTcLCf2lyMY3XPEZZL5V+6eLh8fZxB84eIFVZmu1l\nYHSPttKP9JVXc54WA8mt/ymC1Gz3hN55mkogUEgL7m84lApv86aiti0GK8LRs0DX\nHsGVfhQRleqSGIqXcEHsGxph0O7iUKm2zRBhiC17JgUIRObEvBsNJX7UU5ZMJfv8\nDXqyHPycATB2WGfOso/clhGLooTetqHYBVejZAUbO8dlJCO/NvbEZav2KGc6tr6G\nLuL75j9DPsuOaBI8SJIvjmHFNMCno6lSF7R6eKhR+wKBgQDZ2t+f0UreH59cItM7\ncp7debD2Th8mbM5+3Oi1BdBcr/qSeT2zX8D/CnPZLQHIOn1qy8HfSozgzbgU6lth\nnNGZ2XcRAf0RrYLYTmSk6GfjPpUXFRSSz+W7oSMoHx3J8ELso1O7l9TH/o7SrhEO\neN4NhH2odxnAFVopPg5WoD2B2wKBgQC6JjQwn64Re4A8dwF5IHWWvkREfomk+ri0\n/NDcmO0gY/r94G1UnUaByJ6ly7+mlFu0EABfg87r1/FhnA9LFtubq1n0avVfryhC\nhpX/YleD5Qh2eusjFJktdjT0dpm3dHdBQ4rWOe5Gb3NL3h1dlY1lnDN4F+teuREN\nCkzk9rxR7wKBgAt5l+XXJFZm3AICY5XyB6Qq0MNoggOIH6hXAnrmf38iVdR5RmK4\nXHYSmt+Jm1psmkaRzPhx+NGuhE+1uHJ/zBqKddcTf7z6orW6C1sUUsSJe1jn51mE\nUdl8N1nZqbwFR8EnKTXsXWzbX7KBMKzOeQPFQsko3NZdSY56kk7FyfeZAoGAA2fV\nhpo1Rg6bXv/SYBPu8s4SU6p4/DK2FGGXtKF7nR8XJXPorCagdplkBaZ/oB2Qu++b\nAiRYMcpmmSGQyg/l/qgY4jbevFxpASaTMfPro/cZu4kuKhsjXkiOWXaeA1Q3JlOF\nA7xVlqZNVrL+mIq25ogADQ9q9/Ws0S9CDuJQubMCgYAQ2EBRaT1D96Cc3d5hxaU0\nWRgjcnXnZK4B2xT6G52JrE+Khk/XA/Tnv1TvKXtuOBn3yFCdfd2B4uOqWmkSVW55\nkTM3X0COREc4kbLv17xuWr7LaYUKG/8lnNXmrfsUhfrQjy0D3VQt8RXjCuYaRymL\nsM87cS486QyIwTyRgDGjUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hashicorp-presentation@cocoamaemae-dev.iam.gserviceaccount.com",
+  "client_id": "115333729842675380351",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hashicorp-presentation%40cocoamaemae-dev.iam.gserviceaccount.com"
+}
