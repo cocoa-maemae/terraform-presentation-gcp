@@ -1,6 +1,6 @@
 variable "google_credentials" {
   type    = string
-  default = "./../cocoamaemae-dev-557d84b3ad15.json"
+  default = ""
 }
 
 variable "project_id" {
